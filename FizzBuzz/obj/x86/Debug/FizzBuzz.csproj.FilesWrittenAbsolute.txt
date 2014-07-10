@@ -1,0 +1,5 @@
+/Users/jmwallace/Projects/FizzBuzz/FizzBuzz/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/jmwallace/Projects/FizzBuzz/FizzBuzz/bin/Debug/FizzBuzz.exe.mdb
+/Users/jmwallace/Projects/FizzBuzz/FizzBuzz/bin/Debug/FizzBuzz.exe
+/Users/jmwallace/Projects/FizzBuzz/FizzBuzz/obj/x86/Debug/FizzBuzz.exe
+/Users/jmwallace/Projects/FizzBuzz/FizzBuzz/obj/x86/Debug/FizzBuzz.exe.mdb
